@@ -88,6 +88,10 @@ This page allows customers to:
 ---
 
 ## 📚 References
-- Unsplash.com (images)
-- Pexels.com (free stock images)
-- Online car wash service websites for inspiration
+-Interaction Design Foundation. (2025). Visual hierarchy in web design. Available at: https://www.interaction-design.org/literature/topics/visual-hierarchy (Accessed: 20 April 2026).  
+
+-Statista. (2025). On-demand economy trends in South Africa. Available at: https://www.statista.com (Accessed: 20 April 2026).  
+
+-Xneelo. (2026). Optimizing local servers for mobile businesses. Available at: https://xneelo.co.za (Accessed: 20 April 2026).  
+
+-SME South Africa. (2023). How to start a mobile car wash business. Available at: https://smesouthafrica.co.za (Accessed: 20 April 2026).  
